@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eleoon
 - 👀 I’m interested in languages, media and coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java, MySQL, HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ...just ask
 
